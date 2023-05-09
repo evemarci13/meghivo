@@ -16,9 +16,9 @@ body {
 
 .wrapper {
   width: auto;
-  height: 100%;
+  height: auto;
   max-width: 50%;
-  max-height: 65%;
+  max-height: 80%;
   aspect-ratio: 45 / 60; 
   border: gray;
   margin-left: auto;
